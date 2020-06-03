@@ -1,6 +1,6 @@
 baseURL: http://queuepal.onrender.com/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: QueuePal
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -16,7 +16,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: 
+  description: Zero-contact, text-based check-ins to replace lines and waiting rooms.
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/WaitPal-Logo.svg
@@ -28,7 +28,7 @@ params:
     # Main hero title
     title: Zero-Contact Waiting
     # Hero subtitle (optional)
-    subtitle: A lightweight solution for small medical clinics to check-in and notify patients safely via text message.
+    subtitle: Zero-contact, text-based check-ins to replace lines and waiting rooms.
     # Button text
     buttontext: Contact Us
     # Where the main hero button links to
