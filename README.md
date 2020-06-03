@@ -1,5 +1,5 @@
 # qpal-site
 
-To run locally:
-  <pre><code>hugo server
-  </code></pre>
+To run locally, install hugo with homebrew and run
+  <pre><code>hugo server</code></pre>
+in root directory.
