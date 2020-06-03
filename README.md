@@ -1,5 +1,5 @@
 # qpal-site
 
 To run locally:
-
-  hugo server
+  <pre><code>hugo server
+  </code></pre>
