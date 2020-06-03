@@ -1,4 +1,5 @@
 # qpal-site
 
-To run locally: 
+To run locally:
+
   hugo server
