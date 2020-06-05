@@ -98,7 +98,7 @@ params:
       icon: mobile-feed
   section3:
     title: Over 40 Patients Safely Checked-In (& Counting)
-    subtitle: Get setup and start scheduling your patients in minutes.
+    subtitle: Get setup and start scheduling your patients in minutes
     image: illustrations/undraw_checking_boxes_2ibd.svg
     buttonText: Get started
     buttonLink: "/#contact"
