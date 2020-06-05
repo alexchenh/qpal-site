@@ -16,7 +16,7 @@ params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy 
-  description: Zero-contact, text-based check-ins to replace lines and waiting rooms
+  description: Zero-contact, text-based check-ins to replace physical lines and waiting rooms
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/QueuePal-Logo.svg
@@ -28,7 +28,7 @@ params:
     # Main hero title
     title: Zero-Contact Waiting
     # Hero subtitle (optional)
-    subtitle: Zero-contact, text-based check-ins to replace lines and waiting rooms
+    subtitle: Zero-contact, text-based check-ins to replace physical lines and waiting rooms
     # Button text
     buttontext: Contact Us
     # Where the main hero button links to
