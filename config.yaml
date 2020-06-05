@@ -19,7 +19,7 @@ params:
   description: Zero-contact, text-based check-ins to replace lines and waiting rooms.
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/WaitPal-Logo.svg
+    image: logos/QueuePal-Logo.svg
     link: /
   font:
     name: "Open Sans"
@@ -32,7 +32,7 @@ params:
     # Button text
     buttontext: Contact Us
     # Where the main hero button links to
-    buttonlink: "#contact"
+    buttonlink: "/#contact"
     # Hero image (from static/images/___)
     image: illustrations/undraw_personal_text_vkd8.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -45,9 +45,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features
-    url: "#features"
+    url: "/#features"
   - title: Contact
-    url: "#contact"
+    url: "/#contact"
   # - title: Pricing
   #   url: /
   # - title: Dropdown
@@ -96,20 +96,20 @@ params:
     - title: Mobile and Web
       text: View your schedule, add appointments, and see patients check-in live on either mobile or web.
       icon: mobile-feed
-  # section3:
-  #   title: One platform
-  #   subtitle: To rule them all
-  #   image: illustrations/mockups/app-mockup.png
-  #   buttonText: Get started
-  #   buttonLink: "#"
-  section4:
-    title: What Our Clients Say
-    subtitle: Over 20 patients checked-in and counting
-    clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
-      img: 1
+  section3:
+    title: Over 40 patients safely checked-in (and counting)
+    subtitle: Get setup and start scheduling your patients in minutes.
+    image: illustrations/undraw_checking_boxes_2ibd.svg
+    buttonText: Get started
+    buttonLink: "/#contact"
+  # section4:
+  #   title: What Our Clients Say
+  #   subtitle: Over 20 patients checked-in and counting
+  #   clients:
+  #   - name: Irma Walters
+  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+  #     job: Accountant
+  #     img: 1
     # - name: John Bradley
     #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
     #   job: Financial Analyst
@@ -121,7 +121,7 @@ params:
   section5: true
   footer:
     # Logo (from /images/logos/___)
-    logo: WaitPal-Logo.svg
+    logo: QP-Logo.svg
     # Social Media Title
     # socialmediatitle: Follow Us
     # Social media links (GitHub, Twitter, etc.). All are optional.
@@ -137,8 +137,8 @@ params:
     #   icon: twitter
     # - link: https://bitbucket.org/#
     #   icon: bitbucket
-    bulmalogo: true
-    # quicklinks:
+    bulmalogo: false
+    quicklinks:
     #   column1:
     #     title: "Product"
     #     links:
@@ -163,10 +163,10 @@ params:
     #       link: /
     #     - text: Developers
     #       link: /
-    #   column3:
-    #     title: "Blog"
-    #     links:
-    #     - text: Latest news
-    #       link: /blog/first
-    #     - text: Tech articles
-    #       link: /blog/second
+      column3:
+        title: "Blog"
+        links:
+        - text: Why We Created QueuePal
+          link: /blog/first
+        # - text: Tech articles
+        #   link: /blog/second

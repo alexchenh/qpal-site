@@ -1,7 +1,7 @@
 ---
 title: First
 sidebar: true
-sidebarlogo: fresh-white-alt
+sidebarlogo: QP-Logo
 ---
 
-My super sweet first blog post!!
+Hello world

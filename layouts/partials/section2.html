@@ -2,17 +2,21 @@
 {{- $title    := index $section2 "title" }}
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
-<section id="features" class="section is-medium">
+<section id="features" class="section is-medium section-feature-grey">
   <div class="container">
     <div class="columns">
       <div class="column is-centered-tablet-portrait">
         <h1 class="title section-title">{{ $title }}</h1>
         <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
         <div class="divider"></div>
+        <div>
+          <img src="images/screenshots/app-iphone.png" style="width: auto; height: 600px; padding-top: 20px;">
+        </div>
       </div>
       <div class="column is-7 mt-60">
-        {{- range $features }}
-        <article class="media icon-box">
+        <div style="padding-top: 90px;">
+          {{- range $features }}
+        <article class="media icon-box revealOnScroll delay-1" data-animation="fadeInLeft">
           <figure class="media-left">
             <p class="image">
               <img src="{{ printf "/images/illustrations/icons/%s.svg" .icon | relURL }}">
@@ -29,6 +33,7 @@
           </div>
         </article>
         {{- end }}
+        </div>
       </div>
     </div>
   </div>

@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1878 525.2">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 400px;
+        fill: #4fc1ea;
+        font-family: AvenirNext-DemiBold, Avenir Next;
+        font-weight: 300;
+      }
+
+      .cls-2 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(31.82 341.6)">Queue<tspan class="cls-2" x="1265.58" y="0">P</tspan><tspan class="cls-3" x="1487.17" y="0">al</tspan></text>
+</svg>
