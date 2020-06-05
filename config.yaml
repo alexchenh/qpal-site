@@ -84,7 +84,7 @@ params:
   #     buttonText: Get started
   section2:
     title: Features
-    subtitle: Keep Patients Safe While Streamlining Your Check-In Process
+    subtitle: Keep patients safe while streamlining your check-in process
     features:
     - title: Automatic Check-In Prompts
       text: 15 minutes prior to scheduled appointment time patients will receive a text that they can reply to to easily check-in.
