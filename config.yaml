@@ -97,27 +97,28 @@ params:
       text: View your schedule, add appointments, and see patients check-in live on either mobile or web.
       icon: mobile-feed
   section3:
-    title: Over 50 patients safely checked-in (& counting)
+    title: See It In Action
     subtitle: Get setup and start scheduling your patients in minutes
     image: illustrations/undraw_checking_boxes_2ibd.svg
     buttonText: Get started
     buttonLink: "/#contact"
-  # section4:
-  #   title: What Our Clients Say
-  #   subtitle: Over 20 patients checked-in and counting
-  #   clients:
-  #   - name: Irma Walters
-  #     quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-  #     job: Accountant
-  #     img: 1
+  section4:
+    title: What Our Clients Say
+    subtitle: Over 50 patients safely checked-in (& counting)
+    clients:
+    # - name: Irma Walters
+    #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+    #   job: Accountant
+    #   img: 1
     # - name: John Bradley
     #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
     #   job: Financial Analyst
     #   img: 2
-    # - name: Gary Blackman
-    #   quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-    #   job: HR Manager
-    #   img: 3
+    - name: Dr. Gregory Yim
+      quote: "Impressed at how well it worked. Beauty of it is that it's so simple and efficient."
+
+      job: "Gregory K Yim, MD LLC & Windward Pediatrics Inc."
+      img: 3
   section5: true
   footer:
     # Logo (from /images/logos/___)
