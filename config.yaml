@@ -97,7 +97,7 @@ params:
       text: View your schedule, add appointments, and see patients check-in live on either mobile or web.
       icon: mobile-feed
   section3:
-    title: Over 40 patients safely checked-in (& counting)
+    title: Over 50 patients safely checked-in (& counting)
     subtitle: Get setup and start scheduling your patients in minutes
     image: illustrations/undraw_checking_boxes_2ibd.svg
     buttonText: Get started
