@@ -1,6 +1,6 @@
-baseURL: http://queuepal.onrender.com/
+baseURL: http://queuepals.com/
 languageCode: en-us
-title: QueuePal
+title: QueuePals
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -152,11 +152,11 @@ params:
     #       link: /
     #     - text: AGB
     #       link: /agb
-    #   column2:
-    #     title: "Docs"
-    #     links:
-    #     - text: Get started
-    #       link: /
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /docs/starterguide
     #     - text: User guides
     #       link: /
     #     - text: Admin guide
@@ -166,7 +166,7 @@ params:
       column3:
         title: "Blog"
         links:
-        - text: Why We Created QueuePal
+        - text: Our story
           link: /blog/first
         # - text: Tech articles
         #   link: /blog/second
