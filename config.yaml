@@ -2,7 +2,7 @@ baseURL: http://queuepals.com/
 languageCode: en-us
 title: QueuePals
 theme: hugo-fresh
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: UA-164652509-2
 # Disables warnings
 disableKinds:
 - taxonomy
